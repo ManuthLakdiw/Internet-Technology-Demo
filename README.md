@@ -1,1 +1,4 @@
-This file create for practice git vcs
+Hello , I am Manuth Lakdiw
+==========================
+
+This file was created for practice git vcs
