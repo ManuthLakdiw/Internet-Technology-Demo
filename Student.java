@@ -10,4 +10,8 @@ public class Student {
     public void displayName(){
         System.out.println("Student Name is : " + name);
     }
+    
+    public void displayAge(){
+    	System.out.println("Student Age is : " + age);
+	}
 }
