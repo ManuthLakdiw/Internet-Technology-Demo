@@ -1,8 +1,11 @@
-public class app {
+import java.time.LocalDate;
 
-    public static void Main(String args[]){
+class app {
 
+    public static void main(String args[]){
+    
         System.out.println("App is starting");
+        System.out.println(LocalDate.now());
     
     }
 }
