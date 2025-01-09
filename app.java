@@ -10,6 +10,8 @@ class app {
 
         System.out.println("App is running");
 
+        Student student = new Student("Manuth", 19);
+
     
     
     }
