@@ -6,7 +6,6 @@ class app {
     
         System.out.println("App is starting");
         System.out.println("==============================");
-        System.out.println(LocalDate.now());
     
     }
 }
