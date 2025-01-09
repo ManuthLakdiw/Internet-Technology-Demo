@@ -10,7 +10,7 @@ class app {
 
         System.out.println("App is running");
 
-        Student student = new Student("Manuth", 19);
+        Student student = new Student("Saman", 19);
 
     
     
