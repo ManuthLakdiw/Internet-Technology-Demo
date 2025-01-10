@@ -14,7 +14,8 @@ class app {
         Student student = new Student("Saman", 19);
         Student student2 = new Student("Lakdiv", 18);
 
-    
+        System.out.println("App closing");
+        System.out.println("bye");
     
     }
 }
